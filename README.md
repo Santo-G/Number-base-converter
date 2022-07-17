@@ -1,7 +1,3 @@
-<p align="center">
-<img src="JetBrains Academy.png" alt="JetBrainsAcademy logo" width="1023">
-</p>
-
 # Number Base Converter
 This project consist of implementing a simple Kotlin number base converter.
 This project was developed during the JetBrains Academy course to improve knowledge on Kotlin basics.
@@ -27,34 +23,43 @@ characters (digits or letters) in the fractional part. If there is no fractional
 be omitted in the resulting number, too.
 
 ## Example
-Enter two numbers in format: {source base} {target base} (To quit type /exit) > 10 7
-Enter number in base 10 to convert to base 7 (To go back type /back) > 0.234
-Conversion result: 0.14315
+_Enter two numbers in format: {source base} {target base} (To quit type /exit) > 10 7_
 
-Enter number in base 10 to convert to base 7 (To go back type /back) > 10.234
-Conversion result: 13.14315
+_Enter number in base 10 to convert to base 7 (To go back type /back) > 0.234_
 
-Enter number in base 10 to convert to base 7 (To go back type /back) > /back
+_Conversion result: 0.14315_
 
-Enter two numbers in format: {source base} {target base} (To quit type /exit) > 35 17
-Enter number in base 35 to convert to base 17 (To go back type /back) > af.xy
-Conversion result: 148.g88a8
+_Enter number in base 10 to convert to base 7 (To go back type /back) > 10.234_
 
-Enter number in base 35 to convert to base 17 (To go back type /back) > aaaa.0
-Conversion result: 54e36.00000
+_Conversion result: 13.14315_
 
-Enter number in base 35 to convert to base 17 (To go back type /back) > /back
+_Enter number in base 10 to convert to base 7 (To go back type /back) > /back_
 
-Enter two numbers in format: {source base} {target base} (To quit type /exit) > 21 10
-Enter number in base 21 to convert to base 10 (To go back type /back) > 4242
-Conversion result: 38012
+_Enter two numbers in format: {source base} {target base} (To quit type /exit) > 35 17_
 
-Enter number in base 21 to convert to base 10 (To go back type /back) > 4242.13a
-Conversion result: 38012.05550
+_Enter number in base 35 to convert to base 17 (To go back type /back) > af.xy_
 
-Enter number in base 21 to convert to base 10 (To go back type /back) > /back
+_Conversion result: 148.g88a8_
 
-Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit
+_Enter number in base 35 to convert to base 17 (To go back type /back) > aaaa.0_
+
+_Conversion result: 54e36.00000_
+
+_Enter number in base 35 to convert to base 17 (To go back type /back) > /back_
+
+_Enter two numbers in format: {source base} {target base} (To quit type /exit) > 21 10_
+
+_Enter number in base 21 to convert to base 10 (To go back type /back) > 4242_
+
+_Conversion result: 38012_
+
+_Enter number in base 21 to convert to base 10 (To go back type /back) > 4242.13a_
+
+_Conversion result: 38012.05550_
+
+_Enter number in base 21 to convert to base 10 (To go back type /back) > /back_
+
+_Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit_
 
 ## Contributing
 <a href="https://github.com/Santo-G">
